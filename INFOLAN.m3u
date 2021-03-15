@@ -1,0 +1,562 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzd9Z4KLPzglr60QA7.png" group-title="Избранные", Первый канал HD
+#EXTGRP:Избранные
+http://46.32.64.45:10920
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="Избранные", Россия 1 HD
+#EXTGRP:Избранные
+http://46.32.64.46:10921
+#EXTINF:-1 tvg-name="Россия-24" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkJOMQzj3nX6k098Rl.png" group-title="Избранные", Россия-24
+#EXTGRP:Избранные
+http://pl.cybear.tv/507/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="ТВ3" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbjgx9wmD7pjLP28OE.png" group-title="Избранные", ТВ3
+#EXTGRP:Избранные
+http://pl.cybear.tv/508/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZAymZEkNQX2Bn6V1bA.png" group-title="Избранные", РЕН ТВ
+#EXTGRP:Избранные
+http://pl.cybear.tv/128/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089Zq3Px2yrY7KNbnjLzG.png" group-title="Избранные", Домашний
+#EXTGRP:Избранные
+http://pl.cybear.tv/514/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="2X2" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3LjxmOQ3jKka5L2lD.png" group-title="Избранные", 2X2
+#EXTGRP:Избранные
+http://pl.cybear.tv/702/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oymdoGdyX9vwPLOWm5.png" group-title="Избранные", НТВ HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/213/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNXrZYOLbBln3EQNrP.png" group-title="Избранные", СТС
+#EXTGRP:Избранные
+http://pl.cybear.tv/506/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr53xQ3EDLAN4b5ryw.png" group-title="Избранные", Пятница
+#EXTGRP:Избранные
+http://pl.cybear.tv/503/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9E3xREnk3GBgNLKQX.png" group-title="Избранные", ТНТ HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/237/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxb35M9wmD7pjLP28OE.png" group-title="Избранные", ТНТ4
+#EXTGRP:Избранные
+http://pl.cybear.tv/104/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZG0moV6AOrqyjw9z1W.png" group-title="Избранные", КВН ТВ
+#EXTGRP:Избранные
+http://pl.cybear.tv/546/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Paramount Comedy Russia" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRJGxn5k71JNgAKrml.png" group-title="Избранные", Paramount Comedy Russia
+#EXTGRP:Избранные
+http://pl.cybear.tv/157/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4REZw1B4J20a7VGdn.png" group-title="Избранные", Discovery Channel HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/227/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goarJxXVmPjYb7BWK4E.png" group-title="Избранные", Discovery Science
+#EXTGRP:Избранные
+http://pl.cybear.tv/136/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAG1o4KLPzglr60QA7.png" group-title="Избранные", Наука 2.0
+#EXTGRP:Избранные
+http://pl.cybear.tv/118/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj41Z0eNRPLK49Odlv.png" group-title="Избранные", National Geographic HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/230/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxNY0aoYOLbBln3EQNrP.png" group-title="Избранные", National Geographic Wild HD
+#EXTGRP:Избранные
+http://gorod.tv/s/live/915/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbW2M9wmD7pjLP28OE.png" group-title="Избранные", Travel Channel HD
+#EXTGRP:Избранные
+http://46.32.64.45:10925
+#EXTINF:-1 tvg-name="Travel HD" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowYVMOK3Vvd1QJARY2.png" group-title="Избранные", Travel HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/1043/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Travel+Adventure HD" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQO1oBOnNdRr06XV32.png" group-title="Избранные", Travel+Adventure HD
+#EXTGRP:Избранные
+http://gorod.tv/s/live/904/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature/History HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpByZwb4Gle19kPLKn.png" group-title="Избранные", Viasat Nature/History HD
+#EXTGRP:Избранные
+http://pl.cybear.tv/203/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Моя Планета" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x03noPn1eAa4GyvL0V.png" group-title="Избранные", Моя Планета
+#EXTGRP:Избранные
+http://pl.cybear.tv/117/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2RPol2Qpvy9L6KJa3.png" group-title="HD", Amedia Hit HD
+#EXTGRP:HD
+http://46.32.64.45:10931
+#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolJeMWLRnbqy328jAv.png" group-title="HD", Amedia Premium HD
+#EXTGRP:HD
+http://pl.cybear.tv/229/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEL8MOpLmdwRrqXgvP.png" group-title="HD", Animal Planet HD
+#EXTGRP:HD
+http://pl.cybear.tv/218/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrQexQ3EDLAN4b5ryw.png" group-title="HD", Bollywood HD
+#EXTGRP:HD
+http://pl.cybear.tv/239/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Bridge TV HD" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="HD", Bridge TV HD
+#EXTGRP:HD
+http://pl.cybear.tv/236/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="DocuBox HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3rVZmOQ3jKka5L2lD.png" group-title="HD", DocuBox HD
+#EXTGRP:HD
+http://pl.cybear.tv/811/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Epic Drama" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvyoNr4jQPOGd7KJb.png" group-title="HD", Epic Drama
+#EXTGRP:HD
+http://pl.cybear.tv/1048/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzONM4KLPzglr60QA7.png" group-title="HD", Eurosport 1 HD
+#EXTGRP:HD
+http://pl.cybear.tv/228/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLqNZYN1Lr2PjakdQv.png" group-title="HD", Eurosport 2 HD
+#EXTGRP:HD
+http://pl.cybear.tv/234/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLmgMQjNld35WLBJ1w.png" group-title="HD", Food Network HD
+#EXTGRP:HD
+http://pl.cybear.tv/1107/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx92VMREnk3GBgNLKQX.png" group-title="HD", Fox HD
+#EXTGRP:HD
+http://pl.cybear.tv/219/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="HD Life" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxp9aMwb4Gle19kPLKn.png" group-title="HD", HD Life
+#EXTGRP:HD
+http://pl.cybear.tv/226/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="HD Media" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZKBRM9qgWpjewz6vyk.png" group-title="HD", HD Media
+#EXTGRP:HD
+http://46.32.64.46:10903
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxOnYo7Yav3GnwkqmBz.png" group-title="HD", History HD
+#EXTGRP:HD
+http://pl.cybear.tv/231/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj8BZ0eNRPLK49Odlv.png" group-title="HD", Hollywood HD
+#EXTGRP:HD
+http://pl.cybear.tv/209/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8P4x1ELBXGWRzPQ0A.png" group-title="HD", Mezzo Live HD
+#EXTGRP:HD
+http://pl.cybear.tv/208/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB5wo0PGQ4d98RpY2O.png" group-title="HD", MTV Live HD
+#EXTGRP:HD
+http://pl.cybear.tv/221/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Nautical Channel HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o33qomOQ3jKka5L2lD.png" group-title="HD", Nautical Channel HD
+#EXTGRP:HD
+http://pl.cybear.tv/823/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9PNoREnk3GBgNLKQX.png" group-title="HD", Nickelodeon HD
+#EXTGRP:HD
+http://pl.cybear.tv/223/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="RTG HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png" group-title="HD", RTG HD
+#EXTGRP:HD
+http://pl.cybear.tv/210/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="RTД HD" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxR6JNxn5k71JNgAKrml.png" group-title="HD", RTД HD
+#EXTGRP:HD
+http://46.32.64.45:10929
+#EXTINF:-1 tvg-name="Sony Channel HD" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPA6MDE1bQl3R4Gyan.png" group-title="HD", Sony Channel HD
+#EXTGRP:HD
+http://46.32.64.46:10940
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdJKxrv4jR21qgEADK.png" group-title="HD", TLC HD
+#EXTGRP:HD
+http://pl.cybear.tv/232/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Viasat Sport HD" tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxORpo7Yav3GnwkqmBz.png" group-title="HD", Viasat Sport HD
+#EXTGRP:HD
+http://pl.cybear.tv/160/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="VIP Comedy HD" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goa0KZXVmPjYb7BWK4E.png" group-title="HD", VIP Comedy HD
+#EXTGRP:HD
+http://pl.cybear.tv/200/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLg1oQjNld35WLBJ1w.png" group-title="HD", VIP Megahit HD
+#EXTGRP:HD
+http://pl.cybear.tv/201/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzL8Z4KLPzglr60QA7.png" group-title="HD", VIP Premiere HD
+#EXTGRP:HD
+http://pl.cybear.tv/202/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="XSPORT HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3aDMmOQ3jKka5L2lD.png" group-title="HD", XSPORT HD
+#EXTGRP:HD
+http://pl.cybear.tv/996/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Дом А Премиум HD" group-title="HD", Дом А Премиум HD
+#EXTGRP:HD
+http://pl.cybear.tv/911/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="HD", Дом Кино Премиум HD
+#EXTGRP:HD
+http://46.32.64.46:10927
+#EXTINF:-1 tvg-name="Еда Премиум HD" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeEnZVW8J7GyvOXld6.png" group-title="HD", Еда Премиум HD
+#EXTGRP:HD
+http://pl.cybear.tv/918/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD-1" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDazxAXpwKq5mPJvV9.png" group-title="HD", Кинопоказ HD-1
+#EXTGRP:HD
+http://pl.cybear.tv/913/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD-2" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj98o0eNRPLK49Odlv.png" group-title="HD", Кинопоказ HD-2
+#EXTGRP:HD
+http://pl.cybear.tv/912/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdEGorv4jR21qgEADK.png" group-title="HD", КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://46.32.64.46:10936
+#EXTINF:-1 tvg-name="Конный Мир HD" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqPVM2yrY7KNbnjLzG.png" group-title="HD", Конный Мир HD
+#EXTGRP:HD
+http://pl.cybear.tv/214/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="МАТЧ Премьер HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="HD", МАТЧ Премьер HD
+#EXTGRP:HD
+http://pl.cybear.tv/220/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLb2ZQjNld35WLBJ1w.png" group-title="HD", Матч! HD
+#EXTGRP:HD
+http://pl.cybear.tv/212/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена HD" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVWmxNr4jQPOGd7KJb.png" group-title="HD", Матч! Арена HD
+#EXTGRP:HD
+http://pl.cybear.tv/207/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpLKxwb4Gle19kPLKn.png" group-title="HD", Матч! Игра HD
+#EXTGRP:HD
+http://pl.cybear.tv/225/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="HD", Матч! Футбол 1 HD
+#EXTGRP:HD
+http://pl.cybear.tv/222/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYerxVkQXvADRObGP7.png" group-title="HD", Матч! Футбол 2 HD
+#EXTGRP:HD
+http://pl.cybear.tv/211/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBvAx0PGQ4d98RpY2O.png" group-title="HD", Матч! Футбол 3 HD
+#EXTGRP:HD
+http://pl.cybear.tv/206/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Мир HD Premium" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnr8xJ9XldROAzkg75.png" group-title="HD", Мир HD Premium
+#EXTGRP:HD
+http://pl.cybear.tv/235/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Мультик HD" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNkyMYOLbBln3EQNrP.png" group-title="HD", Мультик HD
+#EXTGRP:HD
+http://pl.cybear.tv/921/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Настоящее время HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzrmx4KLPzglr60QA7.png" group-title="HD", Настоящее время HD
+#EXTGRP:HD
+http://pl.cybear.tv/986/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Наш Кинороман HD" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6l5xNEqAYzmrVWyjg.png" group-title="HD", Наш Кинороман HD
+#EXTGRP:HD
+http://pl.cybear.tv/914/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Наше крутое HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx89KM1ELBXGWRzPQ0A.png" group-title="HD", Наше крутое HD
+#EXTGRP:HD
+http://pl.cybear.tv/915/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx481xw1B4J20a7VGdn.png" group-title="HD", Остросюжетное HD
+#EXTGRP:HD
+http://pl.cybear.tv/904/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Охотник и рыболов HD" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goab6xXVmPjYb7BWK4E.png" group-title="HD", Охотник и рыболов HD
+#EXTGRP:HD
+http://pl.cybear.tv/917/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Теледом HD" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZA00MEkNQX2Bn6V1bA.png" group-title="HD", Теледом HD
+#EXTGRP:HD
+http://pl.cybear.tv/954/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Телеканал КХЛ HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLpPxQjNld35WLBJ1w.png" group-title="HD", Телеканал КХЛ HD
+#EXTGRP:HD
+http://pl.cybear.tv/215/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Тлум HD" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVyPZNr4jQPOGd7KJb.png" group-title="HD", Тлум HD
+#EXTGRP:HD
+http://pl.cybear.tv/240/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Эврика HD" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnVGxJ9XldROAzkg75.png" group-title="HD", Эврика HD
+#EXTGRP:HD
+http://pl.cybear.tv/908/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Ani" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0YKMPn1eAa4GyvL0V.png" group-title="Детские", Ani
+#EXTGRP:Детские
+http://pl.cybear.tv/129/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="BabyTV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnzpxJ9XldROAzkg75.png" group-title="Детские", BabyTV
+#EXTGRP:Детские
+http://pl.cybear.tv/807/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZe0qMVW8J7GyvOXld6.png" group-title="Детские", Boomerang
+#EXTGRP:Детские
+http://pl.cybear.tv/723/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGzEMV6AOrqyjw9z1W.png" group-title="Детские", Cartoon Network
+#EXTGRP:Детские
+http://pl.cybear.tv/143/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx922MREnk3GBgNLKQX.png" group-title="Детские", Disney
+#EXTGRP:Детские
+http://pl.cybear.tv/524/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Duck TV" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovyqZy1vm7j4wQWYnR.png" group-title="Детские", Duck TV
+#EXTGRP:Детские
+http://pl.cybear.tv/1031/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ72vMArgRlD9de8NWP.png" group-title="Детские", Gulli
+#EXTGRP:Детские
+http://pl.cybear.tv/109/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Jim Jam" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgvzxYN1Lr2PjakdQv.png" group-title="Детские", Jim Jam
+#EXTGRP:Детские
+http://pl.cybear.tv/138/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goa74MXVmPjYb7BWK4E.png" group-title="Детские", Nick Jr
+#EXTGRP:Детские
+http://pl.cybear.tv/114/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9PNoREnk3GBgNLKQX.png" group-title="Детские", Nickelodeon
+#EXTGRP:Детские
+http://pl.cybear.tv/541/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Tiji TV" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeO6xVW8J7GyvOXld6.png" group-title="Детские", Tiji TV
+#EXTGRP:Детские
+http://pl.cybear.tv/108/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="В гостях у сказки" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ12ao68y35DwQnGrjA.png" group-title="Детские", В гостях у сказки
+#EXTGRP:Детские
+http://pl.cybear.tv/737/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Детский" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3JjZmOQ3jKka5L2lD.png" group-title="Детские", Детский
+#EXTGRP:Детские
+http://pl.cybear.tv/730/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Детский мир" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8J4Z1ELBXGWRzPQ0A.png" group-title="Детские", Детский мир
+#EXTGRP:Детские
+http://pl.cybear.tv/543/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Малыш" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrYVxQ3EDLAN4b5ryw.png" group-title="Детские", Малыш
+#EXTGRP:Детские
+http://pl.cybear.tv/1041/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Мульт" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="Детские", Мульт
+#EXTGRP:Детские
+http://pl.cybear.tv/909/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Мультимузыка" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQJzZBOnNdRr06XV32.png" group-title="Детские", Мультимузыка
+#EXTGRP:Детские
+http://pl.cybear.tv/749/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="О!" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeazZVW8J7GyvOXld6.png" group-title="Детские", О!
+#EXTGRP:Детские
+http://pl.cybear.tv/727/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Barely legal" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ798xArgRlD9de8NWP.png" group-title="Для взрослых", Barely legal
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/871/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpOQowb4Gle19kPLKn.png" group-title="Для взрослых", Blue Hustler
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/1064/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDA0xAXpwKq5mPJvV9.png" group-title="Для взрослых", Brazzers TV Europe
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/910/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Dorcel TV HD" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrXnoQ3EDLAN4b5ryw.png" group-title="Для взрослых", Dorcel TV HD
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/245/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8gKVo1ELBXGWRzPQ0A.png" group-title="Для взрослых", Hustler HD
+#EXTGRP:Для взрослых
+http://gorod.tv/s/live/705/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Penthouse TV" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMg4AZYN1Lr2PjakdQv.png" group-title="Для взрослых", Penthouse TV
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/1073/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Playboy" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowPQxOK3Vvd1QJARY2.png" group-title="Для взрослых", Playboy
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/527/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Private TV HD" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY84oVkQXvADRObGP7.png" group-title="Для взрослых", Private TV HD
+#EXTGRP:Для взрослых
+http://gorod.tv/s/live/706/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbyeo9wmD7pjLP28OE.png" group-title="Для взрослых", Русская Ночь
+#EXTGRP:Для взрослых
+http://gorod.tv/s/live/708/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Шалун" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrrvMQ3EDLAN4b5ryw.png" group-title="Для взрослых", Шалун
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/922/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Эгоист" group-title="Для взрослых", Эгоист
+#EXTGRP:Для взрослых
+http://pl.cybear.tv/526/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Bridge TV" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="Музыка", Bridge TV
+#EXTGRP:Музыка
+http://pl.cybear.tv/122/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Classic" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGynbxV6AOrqyjw9z1W.png" group-title="Музыка", Bridge TV Classic
+#EXTGRP:Музыка
+http://pl.cybear.tv/0/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Dance" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN0BZYOLbBln3EQNrP.png" group-title="Музыка", Bridge TV Dance
+#EXTGRP:Музыка
+http://pl.cybear.tv/711/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDmNxAXpwKq5mPJvV9.png" group-title="Музыка", Mezzo
+#EXTGRP:Музыка
+http://pl.cybear.tv/707/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYrOMVkQXvADRObGP7.png" group-title="Музыка", MTV
+#EXTGRP:Музыка
+http://pl.cybear.tv/142/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MTV Dance" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowJEZOK3Vvd1QJARY2.png" group-title="Музыка", MTV Dance
+#EXTGRP:Музыка
+http://pl.cybear.tv/558/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZA47MEkNQX2Bn6V1bA.png" group-title="Музыка", MTV Hits
+#EXTGRP:Музыка
+http://pl.cybear.tv/153/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MTV Rocks" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3YpMmOQ3jKka5L2lD.png" group-title="Музыка", MTV Rocks
+#EXTGRP:Музыка
+http://pl.cybear.tv/1038/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="MusicBoxRu" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPWANoDE1bQl3R4Gyan.png" group-title="Музыка", MusicBoxRu
+#EXTGRP:Музыка
+http://pl.cybear.tv/2048/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="RUSONG TV" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6RgZNEqAYzmrVWyjg.png" group-title="Музыка", RUSONG TV
+#EXTGRP:Музыка
+http://pl.cybear.tv/120/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="VH1 Classic" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4z1Zw1B4J20a7VGdn.png" group-title="Музыка", VH1 Classic
+#EXTGRP:Музыка
+http://pl.cybear.tv/724/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="VH1 European" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ57Lxe8pm3LXjzgkQ2.png" group-title="Музыка", VH1 European
+#EXTGRP:Музыка
+http://pl.cybear.tv/536/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Vostok TV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxn7vMJ9XldROAzkg75.png" group-title="Музыка", Vostok TV
+#EXTGRP:Музыка
+http://pl.cybear.tv/1054/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Европа Плюс" group-title="Музыка", Европа Плюс
+#EXTGRP:Музыка
+http://pl.cybear.tv/115/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Жара" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN5BoYOLbBln3EQNrP.png" group-title="Музыка", Жара
+#EXTGRP:Музыка
+http://pl.cybear.tv/105/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Музыка Первого" tvg-logo="https://app.playlistbox.com/icon/l5gOW7dpJq9LRZAPyrMEkNQX2Bn6V1bA.png" group-title="Музыка", Музыка Первого
+#EXTGRP:Музыка
+http://pl.cybear.tv/155/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089Zqgkx2yrY7KNbnjLzG.png" group-title="Музыка", Наше ТВ
+#EXTGRP:Музыка
+http://pl.cybear.tv/721/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzW9M4KLPzglr60QA7.png" group-title="Музыка", ТНТ Music
+#EXTGRP:Музыка
+http://pl.cybear.tv/710/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="History Russia" tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oy1DoGdyX9vwPLOWm5.png" group-title="Познавательные", History Russia
+#EXTGRP:Познавательные
+http://pl.cybear.tv/837/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqmVZ2yrY7KNbnjLzG.png" group-title="Познавательные", Outdoor Channel
+#EXTGRP:Познавательные
+http://pl.cybear.tv/119/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Диалоги о рыбалке" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovGBxy1vm7j4wQWYnR.png" group-title="Познавательные", Диалоги о рыбалке
+#EXTGRP:Познавательные
+http://pl.cybear.tv/844/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Домашние Животные" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnLOZJ9XldROAzkg75.png" group-title="Познавательные", Домашние Животные
+#EXTGRP:Познавательные
+http://pl.cybear.tv/158/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Загородная Жизнь" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEvGoOpLmdwRrqXgvP.png" group-title="Познавательные", Загородная Жизнь
+#EXTGRP:Познавательные
+http://pl.cybear.tv/852/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="История" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbX6Z9wmD7pjLP28OE.png" group-title="Познавательные", История
+#EXTGRP:Познавательные
+http://pl.cybear.tv/111/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Кухня ТВ" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVpGMNr4jQPOGd7KJb.png" group-title="Познавательные", Кухня ТВ
+#EXTGRP:Познавательные
+http://pl.cybear.tv/152/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Сов. Секретно" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7Dz1oArgRlD9de8NWP.png" group-title="Познавательные", Сов. Секретно
+#EXTGRP:Познавательные
+http://pl.cybear.tv/121/TRX58673TT/pl.m3u8
+#EXTINF:-1 tvg-name="Ботаническая ул.-Чебышевская ул." group-title="Вэб-камеры", Ботаническая ул.-Чебышевская ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/899/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ветеранов пр.-Авангардная ул." group-title="Вэб-камеры", Ветеранов пр.-Авангардная ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/891/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Гостилицкое ш.-Чичеринская ул." group-title="Вэб-камеры", Гостилицкое ш.-Чичеринская ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/890/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Гостилицкое ш.-Чичеринская ул.перекрёсток" group-title="Вэб-камеры", Гостилицкое ш.-Чичеринская ул.перекрёсток
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/882/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="ЖК Ломоносовъ" group-title="Вэб-камеры", ЖК Ломоносовъ
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/870/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Красное село, пр. Ленина" group-title="Вэб-камеры", Красное село, пр. Ленина
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/883/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Красное село,Ленина пр.-Гвардейская ул." group-title="Вэб-камеры", Красное село,Ленина пр.-Гвардейская ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/894/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Лермонтова ул.-Юных Пионеров ул." group-title="Вэб-камеры", Лермонтова ул.-Юных Пионеров ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/895/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ломоносов" group-title="Вэб-камеры", Ломоносов
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/888/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Народного Ополчения пр.-Авангардная ул." group-title="Вэб-камеры", Народного Ополчения пр.-Авангардная ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/873/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Низино детская площадка" group-title="Вэб-камеры", Низино детская площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/872/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Окраинная ул, д.9 дет.площадка" group-title="Вэб-камеры", Окраинная ул, д.9 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/875/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Окраинная ул, д.9/д дет.площадка" group-title="Вэб-камеры", Окраинная ул, д.9/д дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/874/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ораниенбаумский пр.-ул.Федюнинского" group-title="Вэб-камеры", Ораниенбаумский пр.-ул.Федюнинского
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/898/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ораниенбаумский пр.38" group-title="Вэб-камеры", Ораниенбаумский пр.38
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/886/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 14к1" group-title="Вэб-камеры", Парковая 14к1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/848/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 14к5-камера 1" group-title="Вэб-камеры", Парковая 14к5-камера 1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/846/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 14к5-камера 2" group-title="Вэб-камеры", Парковая 14к5-камера 2
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/847/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 16" group-title="Вэб-камеры", Парковая 16
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/854/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 16к.2-камера 1" group-title="Вэб-камеры", Парковая 16к.2-камера 1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/852/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 16к.2-камера 2" group-title="Вэб-камеры", Парковая 16к.2-камера 2
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/853/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 20" group-title="Вэб-камеры", Парковая 20
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/857/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 20к.2-камера 1" group-title="Вэб-камеры", Парковая 20к.2-камера 1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/855/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Парковая 20к.2-камера 2" group-title="Вэб-камеры", Парковая 20к.2-камера 2
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/856/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Партизана Германа ул.-Чекистов ул." group-title="Вэб-камеры", Партизана Германа ул.-Чекистов ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/880/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Победы ул.-Швейцарская ул." group-title="Вэб-камеры", Победы ул.-Швейцарская ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/893/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 23" group-title="Вэб-камеры", пр. Героев д. 23
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/867/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 23" group-title="Вэб-камеры", пр. Героев д. 23
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/866/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 25" group-title="Вэб-камеры", пр. Героев д. 25
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/865/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 25" group-title="Вэб-камеры", пр. Героев д. 25
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/864/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 27" group-title="Вэб-камеры", пр. Героев д. 27
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/863/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр. Героев д. 27" group-title="Вэб-камеры", пр. Героев д. 27
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/862/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="пр.Ветеранов-ул.Партизана Германа" group-title="Вэб-камеры", пр.Ветеранов-ул.Партизана Германа
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/897/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ропшинское ш, 4" group-title="Вэб-камеры", Ропшинское ш, 4
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/877/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ропшинское ш. 3 корпус 3 камера 1" group-title="Вэб-камеры", Ропшинское ш. 3 корпус 3 камера 1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/844/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Ропшинское ш. 3 корпус 3 камера 2" group-title="Вэб-камеры", Ропшинское ш. 3 корпус 3 камера 2
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/843/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Русско-высоцкое д. 25" group-title="Вэб-камеры", Русско-высоцкое д. 25
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/860/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Русско-Высоцкое дом 5. Общественная территория" group-title="Вэб-камеры", Русско-Высоцкое дом 5. Общественная территория
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/858/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Санкт-Петербургский пр.-Разводная ул." group-title="Вэб-камеры", Санкт-Петербургский пр.-Разводная ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/879/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Санкт-Петербургское ш.-Гоголя ул." group-title="Вэб-камеры", Санкт-Петербургское ш.-Гоголя ул.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/892/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Санкт-Петербургское ш., д.69" group-title="Вэб-камеры", Санкт-Петербургское ш., д.69
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/868/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Санкт-Петербургское ш., д.82" group-title="Вэб-камеры", Санкт-Петербургское ш., д.82
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/876/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Спирина 16/2 дет.площадка" group-title="Вэб-камеры", Спирина 16/2 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/878/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Стрельна, Гоголя ул.,д.10 дет.площадка" group-title="Вэб-камеры", Стрельна, Гоголя ул.,д.10 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/851/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Стрельна, Санкт-Петербургское ш., д. 86 дет.площадка" group-title="Вэб-камеры", Стрельна, Санкт-Петербургское ш., д. 86 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/850/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Стрельна, Санкт-Петербургское ш., д. 96 дет.площадка" group-title="Вэб-камеры", Стрельна, Санкт-Петербургское ш., д. 96 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/849/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Суворовская ул.,3/11 дет.площадка" group-title="Вэб-камеры", Суворовская ул.,3/11 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/871/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="ул. Петергофская.8" group-title="Вэб-камеры", ул. Петергофская.8
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/884/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="ул. Победы" group-title="Вэб-камеры", ул. Победы
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/885/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="ул. Шахматова - Гостилицкое ш. - Бабигонское ш." group-title="Вэб-камеры", ул. Шахматова - Гостилицкое ш. - Бабигонское ш.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/861/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Уланская 3" group-title="Вэб-камеры", Уланская 3
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/859/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Федюнинского ул.5/1 дет.площадка" group-title="Вэб-камеры", Федюнинского ул.5/1 дет.площадка
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/881/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Шахматова 16/3 дет.площадка." group-title="Вэб-камеры", Шахматова 16/3 дет.площадка.
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/887/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Эрлеровский Бульвар, дом 2" group-title="Вэб-камеры", Эрлеровский Бульвар, дом 2
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/845/10.125.171.182/1615709996072/0.m3u8
+#EXTINF:-1 tvg-name="Янино-1" group-title="Вэб-камеры", Янино-1
+#EXTGRP:Вэб-камеры
+http://gorod.tv/s/live/869/10.125.171.182/1615709996072/0.m3u8
