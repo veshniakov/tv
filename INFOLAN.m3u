@@ -1,14 +1,14 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
-#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzd9Z4KLPzglr60QA7.png" group-title="Избранные", Первый канал HD
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1 tvg-name="Первый HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzd9Z4KLPzglr60QA7.png" group-title="Избранные", Первый канал HD
 #EXTGRP:Избранные
 http://46.32.64.45:10920
-#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="Избранные", Россия 1 HD
+#EXTINF:-1 tvg-name="Россия HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="Избранные", Россия 1 HD
 #EXTGRP:Избранные
 http://46.32.64.46:10921
-#EXTINF:-1 tvg-name="Россия-24" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkJOMQzj3nX6k098Rl.png" group-title="Избранные", Россия-24
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkJOMQzj3nX6k098Rl.png" group-title="Избранные", Россия-24
 #EXTGRP:Избранные
 http://pl.cybear.tv/507/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="ТВ3" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbjgx9wmD7pjLP28OE.png" group-title="Избранные", ТВ3
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbjgx9wmD7pjLP28OE.png" group-title="Избранные", ТВ3
 #EXTGRP:Избранные
 http://pl.cybear.tv/508/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZAymZEkNQX2Bn6V1bA.png" group-title="Избранные", РЕН ТВ
@@ -26,7 +26,7 @@ http://pl.cybear.tv/213/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="СТС" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNXrZYOLbBln3EQNrP.png" group-title="Избранные", СТС
 #EXTGRP:Избранные
 http://pl.cybear.tv/506/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr53xQ3EDLAN4b5ryw.png" group-title="Избранные", Пятница
+#EXTINF:-1 tvg-name="Пятница!" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr53xQ3EDLAN4b5ryw.png" group-title="Избранные", Пятница
 #EXTGRP:Избранные
 http://pl.cybear.tv/503/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9E3xREnk3GBgNLKQX.png" group-title="Избранные", ТНТ HD
@@ -38,22 +38,22 @@ http://pl.cybear.tv/104/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZG0moV6AOrqyjw9z1W.png" group-title="Избранные", КВН ТВ
 #EXTGRP:Избранные
 http://pl.cybear.tv/546/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Paramount Comedy Russia" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRJGxn5k71JNgAKrml.png" group-title="Избранные", Paramount Comedy Russia
+#EXTINF:-1 tvg-name="Paramount Comedy" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRJGxn5k71JNgAKrml.png" group-title="Избранные", Paramount Comedy Russia
 #EXTGRP:Избранные
 http://pl.cybear.tv/157/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4REZw1B4J20a7VGdn.png" group-title="Избранные", Discovery Channel HD
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4REZw1B4J20a7VGdn.png" group-title="Избранные", Discovery Channel HD
 #EXTGRP:Избранные
 http://pl.cybear.tv/227/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goarJxXVmPjYb7BWK4E.png" group-title="Избранные", Discovery Science
 #EXTGRP:Избранные
 http://pl.cybear.tv/136/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAG1o4KLPzglr60QA7.png" group-title="Избранные", Наука 2.0
+#EXTINF:-1 tvg-name="Наука HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAG1o4KLPzglr60QA7.png" group-title="Избранные", Наука 2.0
 #EXTGRP:Избранные
 http://pl.cybear.tv/118/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj41Z0eNRPLK49Odlv.png" group-title="Избранные", National Geographic HD
 #EXTGRP:Избранные
 http://pl.cybear.tv/230/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxNY0aoYOLbBln3EQNrP.png" group-title="Избранные", National Geographic Wild HD
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxNY0aoYOLbBln3EQNrP.png" group-title="Избранные", National Geographic Wild HD
 #EXTGRP:Избранные
 http://gorod.tv/s/live/915/10.125.171.182/1615709996072/0.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbW2M9wmD7pjLP28OE.png" group-title="Избранные", Travel Channel HD
@@ -62,19 +62,19 @@ http://46.32.64.45:10925
 #EXTINF:-1 tvg-name="Travel HD" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowYVMOK3Vvd1QJARY2.png" group-title="Избранные", Travel HD
 #EXTGRP:Избранные
 http://pl.cybear.tv/1043/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Travel+Adventure HD" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQO1oBOnNdRr06XV32.png" group-title="Избранные", Travel+Adventure HD
+#EXTINF:-1 tvg-name="travel+adventure" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQO1oBOnNdRr06XV32.png" group-title="Избранные", Travel+Adventure HD
 #EXTGRP:Избранные
 http://gorod.tv/s/live/904/10.125.171.182/1615709996072/0.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature/History HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpByZwb4Gle19kPLKn.png" group-title="Избранные", Viasat Nature/History HD
+#EXTINF:-1 tvg-name="Viasat Nature History HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpByZwb4Gle19kPLKn.png" group-title="Избранные", Viasat Nature/History HD
 #EXTGRP:Избранные
 http://pl.cybear.tv/203/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x03noPn1eAa4GyvL0V.png" group-title="Избранные", Моя Планета
 #EXTGRP:Избранные
 http://pl.cybear.tv/117/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2RPol2Qpvy9L6KJa3.png" group-title="HD", Amedia Hit HD
+#EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2RPol2Qpvy9L6KJa3.png" group-title="HD", Amedia Hit HD
 #EXTGRP:HD
 http://46.32.64.45:10931
-#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolJeMWLRnbqy328jAv.png" group-title="HD", Amedia Premium HD
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolJeMWLRnbqy328jAv.png" group-title="HD", Amedia Premium HD
 #EXTGRP:HD
 http://pl.cybear.tv/229/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEL8MOpLmdwRrqXgvP.png" group-title="HD", Animal Planet HD
@@ -83,7 +83,7 @@ http://pl.cybear.tv/218/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrQexQ3EDLAN4b5ryw.png" group-title="HD", Bollywood HD
 #EXTGRP:HD
 http://pl.cybear.tv/239/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Bridge TV HD" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="HD", Bridge TV HD
+#EXTINF:-1 tvg-name="Bridge TV" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="HD", Bridge TV HD
 #EXTGRP:HD
 http://pl.cybear.tv/236/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="DocuBox HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3rVZmOQ3jKka5L2lD.png" group-title="HD", DocuBox HD
@@ -95,10 +95,10 @@ http://pl.cybear.tv/1048/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzONM4KLPzglr60QA7.png" group-title="HD", Eurosport 1 HD
 #EXTGRP:HD
 http://pl.cybear.tv/228/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLqNZYN1Lr2PjakdQv.png" group-title="HD", Eurosport 2 HD
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLqNZYN1Lr2PjakdQv.png" group-title="HD", Eurosport 2 HD
 #EXTGRP:HD
 http://pl.cybear.tv/234/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLmgMQjNld35WLBJ1w.png" group-title="HD", Food Network HD
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLmgMQjNld35WLBJ1w.png" group-title="HD", Food Network HD
 #EXTGRP:HD
 http://pl.cybear.tv/1107/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx92VMREnk3GBgNLKQX.png" group-title="HD", Fox HD
@@ -119,7 +119,7 @@ http://pl.cybear.tv/209/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8P4x1ELBXGWRzPQ0A.png" group-title="HD", Mezzo Live HD
 #EXTGRP:HD
 http://pl.cybear.tv/208/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB5wo0PGQ4d98RpY2O.png" group-title="HD", MTV Live HD
+#EXTINF:-1 tvg-name="MTV Live International HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB5wo0PGQ4d98RpY2O.png" group-title="HD", MTV Live HD
 #EXTGRP:HD
 http://pl.cybear.tv/221/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Nautical Channel HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o33qomOQ3jKka5L2lD.png" group-title="HD", Nautical Channel HD
@@ -131,10 +131,10 @@ http://pl.cybear.tv/223/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="RTG HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png" group-title="HD", RTG HD
 #EXTGRP:HD
 http://pl.cybear.tv/210/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="RTД HD" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxR6JNxn5k71JNgAKrml.png" group-title="HD", RTД HD
+#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxR6JNxn5k71JNgAKrml.png" group-title="HD", RTД HD
 #EXTGRP:HD
 http://46.32.64.45:10929
-#EXTINF:-1 tvg-name="Sony Channel HD" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPA6MDE1bQl3R4Gyan.png" group-title="HD", Sony Channel HD
+#EXTINF:-1 tvg-name="Sony Channel" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPA6MDE1bQl3R4Gyan.png" group-title="HD", Sony Channel HD
 #EXTGRP:HD
 http://46.32.64.46:10940
 #EXTINF:-1 tvg-name="TLC HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdJKxrv4jR21qgEADK.png" group-title="HD", TLC HD
@@ -143,13 +143,13 @@ http://pl.cybear.tv/232/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport HD" tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxORpo7Yav3GnwkqmBz.png" group-title="HD", Viasat Sport HD
 #EXTGRP:HD
 http://pl.cybear.tv/160/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy HD" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goa0KZXVmPjYb7BWK4E.png" group-title="HD", VIP Comedy HD
+#EXTINF:-1 tvg-name="VIP Comedy" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goa0KZXVmPjYb7BWK4E.png" group-title="HD", VIP Comedy HD
 #EXTGRP:HD
 http://pl.cybear.tv/200/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLg1oQjNld35WLBJ1w.png" group-title="HD", VIP Megahit HD
+#EXTINF:-1 tvg-name="VIP Megahit" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLg1oQjNld35WLBJ1w.png" group-title="HD", VIP Megahit HD
 #EXTGRP:HD
 http://pl.cybear.tv/201/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzL8Z4KLPzglr60QA7.png" group-title="HD", VIP Premiere HD
+#EXTINF:-1 tvg-name="VIP Premiere" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzL8Z4KLPzglr60QA7.png" group-title="HD", VIP Premiere HD
 #EXTGRP:HD
 http://pl.cybear.tv/202/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="XSPORT HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3aDMmOQ3jKka5L2lD.png" group-title="HD", XSPORT HD
@@ -158,25 +158,25 @@ http://pl.cybear.tv/996/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Дом А Премиум HD" group-title="HD", Дом А Премиум HD
 #EXTGRP:HD
 http://pl.cybear.tv/911/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Дом Кино Премиум HD" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="HD", Дом Кино Премиум HD
+#EXTINF:-1 tvg-name="Дом Кино Премиум" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="HD", Дом Кино Премиум HD
 #EXTGRP:HD
 http://46.32.64.46:10927
-#EXTINF:-1 tvg-name="Еда Премиум HD" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeEnZVW8J7GyvOXld6.png" group-title="HD", Еда Премиум HD
+#EXTINF:-1 tvg-name="Еда HD" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeEnZVW8J7GyvOXld6.png" group-title="HD", Еда Премиум HD
 #EXTGRP:HD
 http://pl.cybear.tv/918/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ HD-1" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDazxAXpwKq5mPJvV9.png" group-title="HD", Кинопоказ HD-1
+#EXTINF:-1 tvg-name="Кинопоказ HD" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDazxAXpwKq5mPJvV9.png" group-title="HD", Кинопоказ HD-1
 #EXTGRP:HD
 http://pl.cybear.tv/913/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ HD-2" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj98o0eNRPLK49Odlv.png" group-title="HD", Кинопоказ HD-2
 #EXTGRP:HD
 http://pl.cybear.tv/912/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdEGorv4jR21qgEADK.png" group-title="HD", КИНОПРЕМЬЕРА HD
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdEGorv4jR21qgEADK.png" group-title="HD", КИНОПРЕМЬЕРА HD
 #EXTGRP:HD
 http://46.32.64.46:10936
-#EXTINF:-1 tvg-name="Конный Мир HD" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqPVM2yrY7KNbnjLzG.png" group-title="HD", Конный Мир HD
+#EXTINF:-1 tvg-name="Конный Мир" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqPVM2yrY7KNbnjLzG.png" group-title="HD", Конный Мир HD
 #EXTGRP:HD
 http://pl.cybear.tv/214/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="МАТЧ Премьер HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="HD", МАТЧ Премьер HD
+#EXTINF:-1 tvg-name="МАТЧ! Премьер HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="HD", МАТЧ Премьер HD
 #EXTGRP:HD
 http://pl.cybear.tv/220/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Матч! HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLb2ZQjNld35WLBJ1w.png" group-title="HD", Матч! HD
@@ -185,7 +185,7 @@ http://pl.cybear.tv/212/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Матч! Арена HD" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVWmxNr4jQPOGd7KJb.png" group-title="HD", Матч! Арена HD
 #EXTGRP:HD
 http://pl.cybear.tv/207/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Матч! Игра HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpLKxwb4Gle19kPLKn.png" group-title="HD", Матч! Игра HD
+#EXTINF:-1 tvg-name="Матч! Игра (HD)" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpLKxwb4Gle19kPLKn.png" group-title="HD", Матч! Игра HD
 #EXTGRP:HD
 http://pl.cybear.tv/225/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="HD", Матч! Футбол 1 HD
@@ -197,16 +197,16 @@ http://pl.cybear.tv/211/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBvAx0PGQ4d98RpY2O.png" group-title="HD", Матч! Футбол 3 HD
 #EXTGRP:HD
 http://pl.cybear.tv/206/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Мир HD Premium" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnr8xJ9XldROAzkg75.png" group-title="HD", Мир HD Premium
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnr8xJ9XldROAzkg75.png" group-title="HD", Мир HD Premium
 #EXTGRP:HD
 http://pl.cybear.tv/235/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Мультик HD" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNkyMYOLbBln3EQNrP.png" group-title="HD", Мультик HD
 #EXTGRP:HD
 http://pl.cybear.tv/921/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Настоящее время HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzrmx4KLPzglr60QA7.png" group-title="HD", Настоящее время HD
+#EXTINF:-1 tvg-name="Настоящее время" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzrmx4KLPzglr60QA7.png" group-title="HD", Настоящее время HD
 #EXTGRP:HD
 http://pl.cybear.tv/986/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Наш Кинороман HD" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6l5xNEqAYzmrVWyjg.png" group-title="HD", Наш Кинороман HD
+#EXTINF:-1 tvg-name="Наш кинороман HD orig" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6l5xNEqAYzmrVWyjg.png" group-title="HD", Наш Кинороман HD
 #EXTGRP:HD
 http://pl.cybear.tv/914/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Наше крутое HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx89KM1ELBXGWRzPQ0A.png" group-title="HD", Наше крутое HD
@@ -218,10 +218,10 @@ http://pl.cybear.tv/904/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Охотник и рыболов HD" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goab6xXVmPjYb7BWK4E.png" group-title="HD", Охотник и рыболов HD
 #EXTGRP:HD
 http://pl.cybear.tv/917/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Теледом HD" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZA00MEkNQX2Bn6V1bA.png" group-title="HD", Теледом HD
+#EXTINF:-1 tvg-name="Теледом" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZA00MEkNQX2Bn6V1bA.png" group-title="HD", Теледом HD
 #EXTGRP:HD
 http://pl.cybear.tv/954/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Телеканал КХЛ HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLpPxQjNld35WLBJ1w.png" group-title="HD", Телеканал КХЛ HD
+#EXTINF:-1 tvg-name="КХЛ HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLpPxQjNld35WLBJ1w.png" group-title="HD", Телеканал КХЛ HD
 #EXTGRP:HD
 http://pl.cybear.tv/215/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Тлум HD" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVyPZNr4jQPOGd7KJb.png" group-title="HD", Тлум HD
@@ -233,7 +233,7 @@ http://pl.cybear.tv/908/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Ani" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0YKMPn1eAa4GyvL0V.png" group-title="Детские", Ani
 #EXTGRP:Детские
 http://pl.cybear.tv/129/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="BabyTV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnzpxJ9XldROAzkg75.png" group-title="Детские", BabyTV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnzpxJ9XldROAzkg75.png" group-title="Детские", BabyTV
 #EXTGRP:Детские
 http://pl.cybear.tv/807/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZe0qMVW8J7GyvOXld6.png" group-title="Детские", Boomerang
@@ -248,10 +248,10 @@ http://pl.cybear.tv/524/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Duck TV" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovyqZy1vm7j4wQWYnR.png" group-title="Детские", Duck TV
 #EXTGRP:Детские
 http://pl.cybear.tv/1031/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ72vMArgRlD9de8NWP.png" group-title="Детские", Gulli
+#EXTINF:-1 tvg-name="Gulli Girl" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ72vMArgRlD9de8NWP.png" group-title="Детские", Gulli
 #EXTGRP:Детские
 http://pl.cybear.tv/109/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Jim Jam" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgvzxYN1Lr2PjakdQv.png" group-title="Детские", Jim Jam
+#EXTINF:-1 tvg-name="JimJam" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgvzxYN1Lr2PjakdQv.png" group-title="Детские", Jim Jam
 #EXTGRP:Детские
 http://pl.cybear.tv/138/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goa74MXVmPjYb7BWK4E.png" group-title="Детские", Nick Jr
@@ -260,7 +260,7 @@ http://pl.cybear.tv/114/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9PNoREnk3GBgNLKQX.png" group-title="Детские", Nickelodeon
 #EXTGRP:Детские
 http://pl.cybear.tv/541/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Tiji TV" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeO6xVW8J7GyvOXld6.png" group-title="Детские", Tiji TV
+#EXTINF:-1 tvg-name="Tiji" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeO6xVW8J7GyvOXld6.png" group-title="Детские", Tiji TV
 #EXTGRP:Детские
 http://pl.cybear.tv/108/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="В гостях у сказки" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ12ao68y35DwQnGrjA.png" group-title="Детские", В гостях у сказки
@@ -287,7 +287,7 @@ http://pl.cybear.tv/727/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Barely legal" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ798xArgRlD9de8NWP.png" group-title="Для взрослых", Barely legal
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/871/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpOQowb4Gle19kPLKn.png" group-title="Для взрослых", Blue Hustler
+#EXTINF:-1 tvg-name="Hustler Blue (Ночной канал)" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpOQowb4Gle19kPLKn.png" group-title="Для взрослых", Blue Hustler
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/1064/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDA0xAXpwKq5mPJvV9.png" group-title="Для взрослых", Brazzers TV Europe
@@ -296,16 +296,16 @@ http://pl.cybear.tv/910/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Dorcel TV HD" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrXnoQ3EDLAN4b5ryw.png" group-title="Для взрослых", Dorcel TV HD
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/245/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8gKVo1ELBXGWRzPQ0A.png" group-title="Для взрослых", Hustler HD
+#EXTINF:-1 tvg-name="Hustler HD Europe" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8gKVo1ELBXGWRzPQ0A.png" group-title="Для взрослых", Hustler HD
 #EXTGRP:Для взрослых
 http://gorod.tv/s/live/705/10.125.171.182/1615709996072/0.m3u8
 #EXTINF:-1 tvg-name="Penthouse TV" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMg4AZYN1Lr2PjakdQv.png" group-title="Для взрослых", Penthouse TV
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/1073/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Playboy" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowPQxOK3Vvd1QJARY2.png" group-title="Для взрослых", Playboy
+#EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowPQxOK3Vvd1QJARY2.png" group-title="Для взрослых", Playboy
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/527/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Private TV HD" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY84oVkQXvADRObGP7.png" group-title="Для взрослых", Private TV HD
+#EXTINF:-1 tvg-name="Private TV" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY84oVkQXvADRObGP7.png" group-title="Для взрослых", Private TV HD
 #EXTGRP:Для взрослых
 http://gorod.tv/s/live/706/10.125.171.182/1615709996072/0.m3u8
 #EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbyeo9wmD7pjLP28OE.png" group-title="Для взрослых", Русская Ночь
@@ -314,13 +314,13 @@ http://gorod.tv/s/live/708/10.125.171.182/1615709996072/0.m3u8
 #EXTINF:-1 tvg-name="Шалун" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrrvMQ3EDLAN4b5ryw.png" group-title="Для взрослых", Шалун
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/922/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Эгоист" group-title="Для взрослых", Эгоист
+#EXTINF:-1 tvg-name="Эгоист ТВ" group-title="Для взрослых", Эгоист
 #EXTGRP:Для взрослых
 http://pl.cybear.tv/526/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Bridge TV" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="Музыка", Bridge TV
 #EXTGRP:Музыка
 http://pl.cybear.tv/122/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Bridge TV Classic" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGynbxV6AOrqyjw9z1W.png" group-title="Музыка", Bridge TV Classic
+#EXTINF:-1 tvg-name="Bridge TV Classic orig" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGynbxV6AOrqyjw9z1W.png" group-title="Музыка", Bridge TV Classic
 #EXTGRP:Музыка
 http://pl.cybear.tv/0/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Bridge TV Dance" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN0BZYOLbBln3EQNrP.png" group-title="Музыка", Bridge TV Dance
@@ -329,7 +329,7 @@ http://pl.cybear.tv/711/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDmNxAXpwKq5mPJvV9.png" group-title="Музыка", Mezzo
 #EXTGRP:Музыка
 http://pl.cybear.tv/707/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYrOMVkQXvADRObGP7.png" group-title="Музыка", MTV
+#EXTINF:-1 tvg-name="MTV Россия" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYrOMVkQXvADRObGP7.png" group-title="Музыка", MTV
 #EXTGRP:Музыка
 http://pl.cybear.tv/142/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="MTV Dance" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jowJEZOK3Vvd1QJARY2.png" group-title="Музыка", MTV Dance
@@ -341,10 +341,10 @@ http://pl.cybear.tv/153/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="MTV Rocks" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3YpMmOQ3jKka5L2lD.png" group-title="Музыка", MTV Rocks
 #EXTGRP:Музыка
 http://pl.cybear.tv/1038/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="MusicBoxRu" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPWANoDE1bQl3R4Gyan.png" group-title="Музыка", MusicBoxRu
+#EXTINF:-1 tvg-name="Russian Music Box" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPWANoDE1bQl3R4Gyan.png" group-title="Музыка", Russian Music Box
 #EXTGRP:Музыка
 http://pl.cybear.tv/2048/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="RUSONG TV" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6RgZNEqAYzmrVWyjg.png" group-title="Музыка", RUSONG TV
+#EXTINF:-1 tvg-name="SONGTV" tvg-logo="http://epg.it999.ru/img/3358.png" group-title="Музыка", SONGTV
 #EXTGRP:Музыка
 http://pl.cybear.tv/120/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="VH1 Classic" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4z1Zw1B4J20a7VGdn.png" group-title="Музыка", VH1 Classic
@@ -377,7 +377,7 @@ http://pl.cybear.tv/837/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqmVZ2yrY7KNbnjLzG.png" group-title="Познавательные", Outdoor Channel
 #EXTGRP:Познавательные
 http://pl.cybear.tv/119/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Диалоги о рыбалке" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovGBxy1vm7j4wQWYnR.png" group-title="Познавательные", Диалоги о рыбалке
+#EXTINF:-1 tvg-name="Диалоги о рыбалке HD" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovGBxy1vm7j4wQWYnR.png" group-title="Познавательные", Диалоги о рыбалке
 #EXTGRP:Познавательные
 http://pl.cybear.tv/844/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Домашние Животные" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnLOZJ9XldROAzkg75.png" group-title="Познавательные", Домашние Животные
@@ -392,7 +392,7 @@ http://pl.cybear.tv/111/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Кухня ТВ" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVpGMNr4jQPOGd7KJb.png" group-title="Познавательные", Кухня ТВ
 #EXTGRP:Познавательные
 http://pl.cybear.tv/152/TRX58673TT/pl.m3u8
-#EXTINF:-1 tvg-name="Сов. Секретно" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7Dz1oArgRlD9de8NWP.png" group-title="Познавательные", Сов. Секретно
+#EXTINF:-1 tvg-name="Совершенно Секретно" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7Dz1oArgRlD9de8NWP.png" group-title="Познавательные", Сов. Секретно
 #EXTGRP:Познавательные
 http://pl.cybear.tv/121/TRX58673TT/pl.m3u8
 #EXTINF:-1 tvg-name="Ботаническая ул.-Чебышевская ул." group-title="Вэб-камеры", Ботаническая ул.-Чебышевская ул.
